@@ -6,4 +6,4 @@
 ## Выходные данные:
 * Время перемножения матриц на GPU и CPU
 * time spent executing by the GPU: 215.41 millseconds
-* time spent executing by the GPU: 215.41 millseconds
+* time spent executing by the CPU: 13448.00 millseconds
